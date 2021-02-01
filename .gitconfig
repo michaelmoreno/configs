@@ -1,0 +1,8 @@
+[user]
+	email = michaelmoreno.dev@gmail.com
+	name = michaelmoreno
+[alias]
+	save = !git add . && git commit -m
+	pushup = !git add . && git commit -m "push" && git push origin master
+[init]
+	defaultBranch = main
